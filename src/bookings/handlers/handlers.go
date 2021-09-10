@@ -3,9 +3,9 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/douglasqsantos/webappwithgo/config"
-	"github.com/douglasqsantos/webappwithgo/models"
-	"github.com/douglasqsantos/webappwithgo/render"
+	"github.com/douglasqsantos/bookings/config"
+	"github.com/douglasqsantos/bookings/models"
+	"github.com/douglasqsantos/bookings/render"
 )
 
 // Repo the repository used by the handlers
